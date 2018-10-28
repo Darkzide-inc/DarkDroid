@@ -1,0 +1,13 @@
+
+#EXTINF:0 tvg-shift="0" tvg-id="DR1 HD" tvg-logo="https://danishbits.org/static/bitbucket/users/1514675161.6633.png", group-title="DANSK",DR 1 HD
+https://dr01-lh.akamaihd.net/i/live/dr01_0@147054/master.m3u8?b=100-10000|X-Forwarded-For=62.242.0.0
+#EXTINF:0 tvg-shift="0" tvg-id="DR2 HD" tvg-logo="https://danishbits.org/static/bitbucket/users/1514675219.3517.png", group-title="DANSK",DR 2 HD
+https://dr02-lh.akamaihd.net/i/live/dr02_0@147055/master.m3u8?b=100-10000|X-Forwarded-For=62.242.0.0
+#EXTINF:0 tvg-shift="0" tvg-id="DR3 HD" tvg-logo="https://danishbits.org/static/bitbucket/users/1514675240.2972.png", group-title="DANSK",DR 3 HD
+https://dr03-lh.akamaihd.net/i/live/dr03_0@147056/master.m3u8?b=100-10000|X-Forwarded-For=62.242.0.0
+#EXTINF:0 tvg-shift="0" tvg-id="DR K HD" tvg-logo="https://danishbits.org/static/bitbucket/users/1514675260.777.png", group-title="DANSK",DR K HD
+https://dr04-lh.akamaihd.net/i/live/dr04_0@147057/master.m3u8?b=100-10000|X-Forwarded-For=62.242.0.0
+#EXTINF:0 tvg-shift="0" tvg-id="DR Ram HD" tvg-logo="https://danishbits.org/static/bitbucket/users/1514675309.4873.png", group-title="DANSK",DR RAMASJANG HD
+https://dr05-lh.akamaihd.net/i/live/dr05_0@147058/master.m3u8?b=100-10000|X-Forwarded-For=62.242.0.0
+#EXTINF:0 tvg-shift="0" tvg-id="DR Ultra HD" tvg-logo="https://danishbits.org/static/bitbucket/users/1514675332.8666.png", group-title="DANSK",DR ULTRA HD
+https://dr06-lh.akamaihd.net/i/live/dr06_0@147059/master.m3u8?b=100-10000|X-Forwarded-For=62.242.0.0

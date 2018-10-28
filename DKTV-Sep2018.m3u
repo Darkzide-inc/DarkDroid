@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:0 tvg-shift="0",DR 1
+https://dr01-lh.akamaihd.net/i/live/dr01_0@147054/master.m3u8?b=100-10000
+#EXTINF:0 tvg-shift="0",DR 2
+https://dr02-lh.akamaihd.net/i/live/dr02_0@147055/master.m3u8?b=100-10000
+#EXTINF:0 tvg-shift="0",DR 3
+https://dr03-lh.akamaihd.net/i/live/dr03_0@147056/master.m3u8?b=100-10000
+#EXTINF:0 tvg-shift="0",DR KULTUR
+https://dr04-lh.akamaihd.net/i/live/dr04_0@147057/master.m3u8?b=100-10000
+#EXTINF:0 tvg-shift="0",DR RAMASJANG
+https://dr05-lh.akamaihd.net/i/live/dr05_0@147058/master.m3u8?b=100-10000
+#EXTINF:0 tvg-shift="0",DR ULTRA
+https://dr06-lh.akamaihd.net/i/live/dr06_0@147059/master.m3u8?b=100-10000
+#EXTINF:0 tvg-shift="0",TV2 NORD
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2nord/mfpoe3d3/2/master.m3u8
+#EXTINF:0 tvg-shift="0",TV2 SPORT
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2sport/mmdsewor/2/master.m3u8
+#EXTINF:0 tvg-shift="0",TV2 ZULU
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2zulu/4kvorjjh/2/master.m3u8
+#EXTINF:0 tvg-shift="0",TV2 FRI
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2fri/ve3pvkfs/2/master.m3u8
+#EXTINF:0 tvg-shift="0",TV2 LORRY
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2lorry/mbnkhtor/2/master.m3u8
+#EXTINF:0 tvg-shift="0",TV2 CHARLIE
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2charlie/gkr3oefn/2/master.m3u8
+#EXTINF:0 tvg-shift="0",TV2 NEWS
+https://tv2-play-cl2-live-hls-st.akamaized.net/out/u/tv2news/bmfdkrbg/0/master_7.m3u8
+#EXTINF:0 tvg-shift="0",TV2 PLAY 1
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play1/crsvkedv/0/master.m3u8
+#EXTINF:0 tvg-shift="0",TV2 PLAY 2
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play2/adegbvef/0/master.m3u8
+#EXTINF:0 tvg-shift="0",TV2 PLAY 3
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play3/fgmbreov/0/master.m3u8
+#EXTINF:0 tvg-shift="0",TV2 PLAY 4
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2play4/zdyppexe/0/master.m3u8
+#EXTINF:0 tvg-shift="0",TV2 REG BORNHOLM
+http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
+#EXTINF:0 tvg-shift="0",TV2 REG FYN
+http://cdn-lt-live.tv2fyn.dk/dc-1/live/hls/p/1966291/e/0_vsfrv0zm/sd/10000/t/T6nwxGTEvXZRnLX-DBxxkw/index-s32.m3u8
+#EXTINF:0 tvg-shift="0",TV2 REG LORRY
+http://cdn-lt-live.tv2lorry.dk/dc-1/live/hls/p/2045321/e/0_5l7gjlbn/sd/10000/t/o0rIIeGd1KdzBctCs5zPlQ/index-s32.m3u8
+#EXTINF:0 tvg-shift="0",TV2 REG MIDTVEST
+http://cdn-lt-live.tvmidtvest.dk/dc-1/live/hls/p/1953371/e/0_ghzg9q0q/sd/10000/t/i288LRzPhejpahOfggbdtw/index-s32.m3u8
+#EXTINF:0 tvg-shift="0",TV2 SYD
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2syd/3fbvsnlt/2/master.m3u8
+#EXTINF:0 tvg-shift="0",TV2 ØST
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2ost/bfpemomo/2/master.m3u8
+#EXTINF:0 tvg-shift="0",TV2 ØSTJYLLAND
+https://tv2-play-cl2-live-hls-nt.akamaized.net/out/u/tv2oj/korevmfl/2/master.m3u8
